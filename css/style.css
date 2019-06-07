@@ -1,0 +1,33 @@
+body{
+	padding: 30px;
+}
+
+.title{
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 30px;
+
+}
+.poto{
+	height: 130px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.text{
+	display: inline-block;
+	width: 355px;
+	margin-left: 50px;
+	vertical-align: middle;
+}
+.item{
+	display: inline-block;
+	width: 670px;
+	background-color: #F2F2F2;
+	padding:15px;
+	margin-right: 30px;
+}
+.title-h5{
+	color: #3D58A6;
+	font-size: 22px;
+	margin-bottom: 15px;
+}
